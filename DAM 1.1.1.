@@ -1,0 +1,319 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cuestionario DAM 1.1.1 - Recursos Humanos</title>
+    <style>
+        body { font-family: Arial, sans-serif; line-height: 1.6; color: #333; max-width: 800px; margin: 20px auto; padding: 20px; background-color: #f4f4f4; }
+        .container { background: #fff; padding: 30px; border-radius: 8px; box-shadow: 0 0 10px rgba(0,0,0,0.1); }
+        h1 { color: #003366; text-align: center; border-bottom: 2px solid #003366; padding-bottom: 10px; }
+        .question { font-weight: bold; margin-top: 20px; color: #003366; }
+        .options { list-style-type: none; padding-left: 0; }
+        .options li { margin-bottom: 8px; padding: 5px; border-radius: 4px; border: 1px solid #eee; }
+        .section-title { background: #003366; color: #fff; padding: 5px 10px; margin-top: 30px; border-radius: 4px; }
+    </style>
+</head>
+<body>
+
+<div class="container">
+    <h1>Cuestionario de Evaluación DAM 1.1.1</h1>
+
+    <div class="section-title">I. Introducción, Reclutamiento y Contratación</div>
+    
+    <p class="question">1. ¿Cuál es la finalidad principal del Libro de Doctrina de Recursos Humanos?</p>
+    <ul class="options">
+        <li>A) Establecer planes de combate naval.</li>
+        <li>B) Servir como guía para la correcta administración de los Recursos Humanos y Documentación Naval.</li>
+        <li>C) Regular el presupuesto de las zonas navales.</li>
+    </ul>
+
+    <p class="question">2. El reclutamiento de personal busca atraer a ciudadanos para ingresar a:</p>
+    <ul class="options">
+        <li>A) Solo a la Milicia Permanente.</li>
+        <li>B) La Armada de México como Oficial, Clase o Marinero.</li>
+        <li>C) Empresas civiles de seguridad marítima.</li>
+    </ul>
+
+    <p class="question">3. ¿Cuál es el requisito de estudios para ingresar como Marinero según el inciso J?</p>
+    <ul class="options">
+        <li>A) Primaria concluida.</li>
+        <li>B) Secundaria o bachillerato.</li>
+        <li>C) Título profesional.</li>
+    </ul>
+
+    <p class="question">4. ¿Cuál es la edad máxima de contratación para un Marinero?</p>
+    <ul class="options">
+        <li>A) 25 años.</li>
+        <li>B) 30 años.</li>
+        <li>C) 35 años.</li>
+    </ul>
+
+    <p class="question">5. Para ingresar como Tercer Maestre (Inciso K), ¿qué nivel educativo se requiere?</p>
+    <ul class="options">
+        <li>A) Técnico profesional, bachillerato técnico o equivalente.</li>
+        <li>B) Solo saber leer y escribir.</li>
+        <li>C) Doctorado en ciencias navales.</li>
+    </ul>
+
+    <p class="question">6. ¿Cuál es la duración del contrato inicial para un Oficial del Servicio de Justicia Naval (Núcleo Lic. en Derecho)?</p>
+    <ul class="options">
+        <li>A) Un año.</li>
+        <li>B) Seis meses.</li>
+        <li>C) Tres años.</li>
+    </ul>
+
+    <p class="question">7. ¿Por cuánto tiempo se firman los contratos para el personal de Clases y Marinería de la Milicia Auxiliar?</p>
+    <ul class="options">
+        <li>A) 10 años.</li>
+        <li>B) Un tiempo determinado que no exceda de 1 año.</li>
+        <li>C) Indefinido desde el alta.</li>
+    </ul>
+
+    <p class="question">8. ¿Qué sucede con el personal que no acredita satisfactoriamente la "Inducción al Medio"?</p>
+    <ul class="options">
+        <li>A) Se le da una segunda oportunidad de 6 meses.</li>
+        <li>B) Se procederá a tramitar su baja del Servicio Activo.</li>
+        <li>C) Se le descuenta el sueldo del primer mes.</li>
+    </ul>
+
+    <p class="question">9. ¿Cuál es el objetivo de la "Inducción al Medio"?</p>
+    <ul class="options">
+        <li>A) Aprender a manejar barcos de gran calado.</li>
+        <li>B) Familiarizar al personal de nuevo ingreso con la cultura, valores y disciplina naval.</li>
+        <li>C) Realizar el examen médico final.</li>
+    </ul>
+
+    <div class="section-title">II. Reenganches y Pase a Milicia Permanente</div>
+
+    <p class="question">10. ¿Cuál es un requisito para que el personal de la Milicia Auxiliar pueda reengancharse?</p>
+    <ul class="options">
+        <li>A) Tener menos de 5 años de servicio.</li>
+        <li>B) Haber observado buena conducta civil y militar.</li>
+        <li>C) Haber participado en al menos 3 desfiles.</li>
+    </ul>
+
+    <p class="question">11. ¿Qué capacidad física debe mantener el personal para el reenganche?</p>
+    <ul class="options">
+        <li>A) Ser apto para el servicio activo en examen médico, clínico y psicométrico.</li>
+        <li>B) Correr 10 km en menos de 40 minutos obligatoriamente.</li>
+        <li>C) No es necesario examen médico si ya está en activo.</li>
+    </ul>
+
+    <p class="question">12. El pase a la Milicia Permanente (Párrafo I) implica que el personal:</p>
+    <ul class="options">
+        <li>A) Pierde su antigüedad.</li>
+        <li>B) Adquiere estabilidad y propiedad del grado.</li>
+        <li>C) Puede retirarse inmediatamente con pensión completa.</li>
+    </ul>
+
+    <div class="section-title">III. Adecuación de Grado</div>
+
+    <p class="question">13. ¿Quiénes pueden participar en el proceso de Adecuación de Grado?</p>
+    <ul class="options">
+        <li>A) Solo civiles interesados.</li>
+        <li>B) Personal de la Milicia Permanente y la Milicia Auxiliar.</li>
+        <li>C) Únicamente los Almirantes.</li>
+    </ul>
+
+    <p class="question">14. Según el criterio "f", ¿qué se requiere respecto a las vacantes para la adecuación?</p>
+    <ul class="options">
+        <li>A) No importa si hay vacantes, se crea una nueva.</li>
+        <li>B) Que exista la vacante en la estructura orgánica.</li>
+        <li>C) Que el interesado pague el costo de la nueva plaza.</li>
+    </ul>
+
+    <p class="question">15. Según el criterio "g", el personal debe contar con:</p>
+    <ul class="options">
+        <li>A) Un auto propio.</li>
+        <li>B) El perfil profesional requerido para el desempeño de sus funciones.</li>
+        <li>C) Una carta de recomendación de un familiar.</li>
+    </ul>
+
+    <div class="section-title">IV. Cambio de Cuerpo, Escala o Servicio</div>
+
+    <p class="question">16. El cambio por solicitud o necesidades del servicio requiere (Inciso a):</p>
+    <ul class="options">
+        <li>A) Que sea aprobado por una votación interna.</li>
+        <li>B) Que existan vacantes en el Cuerpo o Servicio al que se pretenda cambiar.</li>
+        <li>C) Que el militar tenga menos de 2 años de servicio.</li>
+    </ul>
+
+    <p class="question">17. ¿Qué requisito educativo se menciona en el inciso "b" para cambios por solicitud?</p>
+    <ul class="options">
+        <li>A) Solo primaria.</li>
+        <li>B) Poseer el perfil profesional y el nivel académico requerido.</li>
+        <li>C) No se requiere nivel académico, solo actitud.</li>
+    </ul>
+
+    <p class="question">18. En cambios por necesidades del servicio (Inciso c), ¿qué se prioriza?</p>
+    <ul class="options">
+        <li>A) El interés personal del militar.</li>
+        <li>B) La optimización de los recursos humanos para el cumplimiento de la misión.</li>
+        <li>C) El ahorro de papelería administrativa.</li>
+    </ul>
+
+    <p class="question">19. ¿Cuál es el requisito de conducta (Inciso d) para solicitar un cambio?</p>
+    <ul class="options">
+        <li>A) Tener mala conducta para "empezar de cero".</li>
+        <li>B) Haber observado buena conducta militar y civil.</li>
+        <li>C) No haber tenido vacaciones en un año.</li>
+    </ul>
+
+    <p class="question">20. El cambio por prescripción médica (Inciso a) se da cuando el personal:</p>
+    <ul class="options">
+        <li>A) Quiere descansar en una oficina.</li>
+        <li>B) Sufre una disminución en sus facultades físicas o mentales para su servicio actual.</li>
+        <li>C) Quiere estar cerca de un hospital específico.</li>
+    </ul>
+
+    <p class="question">21. Para el cambio por salud, el dictamen debe ser emitido por (Inciso b):</p>
+    <ul class="options">
+        <li>A) Un médico civil particular.</li>
+        <li>B) La Junta Naval de Sanidad.</li>
+        <li>C) El comandante de la unidad.</li>
+    </ul>
+
+    <p class="question">22. En el cambio por salud, ¿qué pasa con la jerarquía del personal (Inciso c)?</p>
+    <ul class="options">
+        <li>A) Se le asciende automáticamente.</li>
+        <li>B) Conserva su grado y antigüedad.</li>
+        <li>C) Se le degrada un nivel.</li>
+    </ul>
+
+    <p class="question">23. ¿Qué sucede si no hay vacante inmediata para un cambio médico (Inciso d)?</p>
+    <ul class="options">
+        <li>A) Se le da de baja.</li>
+        <li>B) Queda a disposición del Mando correspondiente hasta que exista la vacante.</li>
+        <li>C) Se le obliga a seguir en su servicio anterior.</li>
+    </ul>
+
+    <div class="section-title">V. Movimientos de Personal y Obligaciones</div>
+
+    <p class="question">24. ¿Qué es un "Movimiento de Personal"?</p>
+    <ul class="options">
+        <li>A) El ejercicio físico diario.</li>
+        <li>B) El cambio de adscripción de un elemento de una unidad a otra.</li>
+        <li>C) La marcha militar en desfiles.</li>
+    </ul>
+
+    <p class="question">25. El Párrafo II menciona que los movimientos deben ser:</p>
+    <ul class="options">
+        <li>A) Aleatorios y sin previo aviso.</li>
+        <li>B) Planeados para no afectar la operatividad de las unidades.</li>
+        <li>C) Únicamente en diciembre.</li>
+    </ul>
+
+    <p class="question">26. ¿Quién tiene la facultad de ordenar los movimientos de personal?</p>
+    <ul class="options">
+        <li>A) El civil más antiguo.</li>
+        <li>B) El Alto Mando o autoridades facultadas.</li>
+        <li>C) El comité de vecinos de la zona naval.</li>
+    </ul>
+
+    <p class="question">27. ¿Qué documento oficial formaliza un movimiento de personal?</p>
+    <ul class="options">
+        <li>A) Un mensaje de texto.</li>
+        <li>B) Un Oficio o Mensaje de Transmisiones de Cambio de Adscripción.</li>
+        <li>C) Una llamada telefónica.</li>
+    </ul>
+
+    <p class="question">28. Según las "Obligaciones del Militar" (Numeral 5), el elemento debe:</p>
+    <ul class="options">
+        <li>A) Presentarse en su nueva unidad en la fecha y hora señaladas.</li>
+        <li>B) Pedir permiso a su familia antes de moverse.</li>
+        <li>C) Solicitar viáticos antes de saber a dónde va.</li>
+    </ul>
+
+    <div class="section-title">VI. Documentación y Ascensos</div>
+
+    <p class="question">29. ¿Qué representan los "Ascensos del Personal"?</p>
+    <ul class="options">
+        <li>A) Un aumento solo de sueldo.</li>
+        <li>B) El acto de otorgar un grado superior en la escala jerárquica.</li>
+        <li>C) Un cambio de uniforme cada año.</li>
+    </ul>
+
+    <p class="question">30. ¿Qué es la "Hoja de Actuación" (Párrafo I)?</p>
+    <ul class="options">
+        <li>A) Un guion para obras de teatro navales.</li>
+        <li>B) El documento que evalúa el desempeño de los Oficiales.</li>
+        <li>C) Una lista de compras de la unidad.</li>
+    </ul>
+
+    <p class="question">31. ¿Qué es el "Memorial de Servicios" (Párrafo I)?</p>
+    <ul class="options">
+        <li>A) El documento equivalente a la hoja de actuación pero para Clases y Marinería.</li>
+        <li>B) Una placa de bronce en honor a los caídos.</li>
+        <li>C) El registro de todas las armas de la unidad.</li>
+    </ul>
+
+    <p class="question">32. En la Entrega-Recepción, ¿qué es lo primero que se debe hacer (Párrafo I)?</p>
+    <ul class="options">
+        <li>A) Organizar una fiesta de despedida.</li>
+        <li>B) Levantar el acta administrativa correspondiente.</li>
+        <li>C) Cambiar las cerraduras de todas las oficinas.</li>
+    </ul>
+
+    <p class="question">33. El procedimiento de Entrega-Recepción (Inciso a) garantiza:</p>
+    <ul class="options">
+        <li>A) Que no falte ningún mueble.</li>
+        <li>B) La continuidad administrativa y la transparencia en el uso de recursos.</li>
+        <li>C) Que el nuevo mando sea más joven que el anterior.</li>
+    </ul>
+
+    <p class="question">34. ¿Qué es la "Relación Nominal" (Párrafo I)?</p>
+    <ul class="options">
+        <li>A) Una lista de apodos de los marinos.</li>
+        <li>B) El documento que registra al personal presente en una unidad o establecimiento.</li>
+        <li>C) El presupuesto de alimentación del mes.</li>
+    </ul>
+
+    <div class="section-title">VII. Bajas</div>
+
+    <p class="question">35. ¿Cuál es una circunstancia que motiva la baja (Numeral 1)?</p>
+    <ul class="options">
+        <li>A) Por defunción.</li>
+        <li>B) Por cumplir un mes de servicio.</li>
+        <li>C) Por no querer usar el uniforme.</li>
+    </ul>
+
+    <p class="question">36. La baja por "Acuerdo del Alto Mando" (Numeral 2) se aplica generalmente a:</p>
+    <ul class="options">
+        <li>A) Marineros recién ingresados.</li>
+        <li>B) Oficiales y Almirantes por causas específicas de ley.</li>
+        <li>C) Personal civil contratado por fuera.</li>
+    </ul>
+
+    <p class="question">37. Los Mandos Superiores pueden acordar bajas (Numeral 3) en casos de:</p>
+    <ul class="options">
+        <li>A) Personal de Clases y Marinería bajo su jurisdicción.</li>
+        <li>B) Cualquier persona del país.</li>
+        <li>C) Solo personal extranjero.</li>
+    </ul>
+
+    <p class="question">38. ¿Qué es la baja por "Rescisión de Contrato"?</p>
+    <ul class="options">
+        <li>A) Un ascenso encubierto.</li>
+        <li>B) La terminación anticipada de la relación laboral por incumplimiento de cláusulas.</li>
+        <li>C) Un premio por puntualidad.</li>
+    </ul>
+
+    <p class="question">39. ¿Cuál es una circunstancia para NEGAR la baja (Numeral 4)?</p>
+    <ul class="options">
+        <li>A) Que el militar deba dinero a sus compañeros.</li>
+        <li>B) Que el país se encuentre en estado de emergencia o guerra.</li>
+        <li>C) Que el militar sea muy buen cocinero.</li>
+    </ul>
+
+    <p class="question">40. Otra razón para negar la baja es que el militar:</p>
+    <ul class="options">
+        <li>A) Tenga pendiente el cumplimiento de una sanción o proceso judicial militar.</li>
+        <li>B) No haya entregado sus botas viejas.</li>
+        <li>C) Tenga menos de 50 años.</li>
+    </ul>
+
+</div>
+
+</body>
+</html>
